@@ -45,7 +45,7 @@ Station Explorer: Access real-time data and historical summaries from across all
 
 6. Access the system at http://127.0.0.1:5001.
 
-7. 🚀 Live Demo
+7. **🔗 Live Demo**
 Check out the live application here: [Australian Climate Analytics] (https://australian-climate-analytics.onrender.com)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
